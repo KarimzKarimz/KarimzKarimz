@@ -1,8 +1,3 @@
-<!-- Emoji banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=🎭+Creative+Mind+%2B+🧠+Data+Heart+%3D+✨Impact;" alt="Typing SVG" />
-</p>
-
 # 👋🏾 Hey there, I'm Karimi
 
 > _“Where data meets drama, and both tell powerful stories.”_
