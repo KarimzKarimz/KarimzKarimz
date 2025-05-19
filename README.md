@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Karimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarimzKarimz&show_icons=true&theme=default)
+![Karimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarimzKarimz&show_icons=true&theme=tokyonight)
 
 ---
 
