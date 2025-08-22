@@ -3,7 +3,7 @@
 > _“Where data meets drama, and both tell powerful stories.”_
 
 🎨 I’m a curious **creative** and a passionate **data enthusiast**, blending the world of **art, tech, and storytelling**.  
-💡 Currently leveling up through a **Data Science Bootcamp**, focusing on social impact projects.  
+💡 Currently completed a **Data Science Bootcamp**, focusing on social impact projects.  
 🎭 I’m especially interested in how **data** can uplift the **creative industry** from **Kenyan theatre** to **digital media**.  
 📊 I see data as a canvas, patterns are stories waiting to be told.
 
@@ -21,8 +21,8 @@
 
 ## 📂 Featured Projects
 
-- 🎭 [**Kenyan Theatre Social Media Project**](https://github.com/KarimzKarimz/kenyan-theatre-data-project):  
-  A data science project analyzing sentiment and engagement around theatre in Kenya using web scraping and social media data.
+- 🎭 [**Investment Recommender System Project**](https://github.com/KarimzKarimz/Group4_Capstone_Final_Project):  
+  A data science project focusing on giving investment recommendations to individuals according to the given profile.
 
 - 🔍 [More to come… stay tuned!]
 
@@ -31,7 +31,6 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/faithkarimi/)
-- 📧 Email: *muthonikarimif@gmail.com*
 
 ---
 
