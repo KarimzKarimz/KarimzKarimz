@@ -3,7 +3,7 @@
 > _“Where data meets drama, and both tell powerful stories.”_
 
 🎨 I’m a curious **creative** and a passionate **data enthusiast**, blending the world of **art, tech, and storytelling**.  
-💡 Currently completed a **Data Science Bootcamp**, focusing on social impact projects.  
+💡 Recently completed a **Data Science Bootcamp**, focusing on social impact projects.  
 🎭 I’m especially interested in how **data** can uplift the **creative industry** from **Kenyan theatre** to **digital media**.  
 📊 I see data as a canvas, patterns are stories waiting to be told.
 
